@@ -157,24 +157,24 @@ src/
 
 ## Why Early-Stage?
 
-I want to join an early-stage startup because I thrive when the surface area is wide and decisions are fast. I like shipping directly to users, owning the full stack, and turning ambiguity into momentum.
+I enjoy environments where problems are real, constraints are tight, and decisions actually matter. Early-stage startups force you to think end-to-end: product, engineering, UX, and tradeoffs, not just isolated tasks. I like owning outcomes, shipping fast, and improving systems based on real usage rather than assumptions or long planning cycles.
 
 ## Craziest Thing Built Solo
 
-A marketplace MVP where I built the backend, frontend, and data ingestion system in one week, including a real-time analytics dashboard and automated file processing pipeline.
+One of the craziest things I have built single-handedly is ClipSmart AI, an AI-driven video platform that lets users search long videos and extract precise clips using natural-language commands. I designed and built the entire system end-to-end: frontend, backend, AI pipelines, video processing, storage, and deployment. The hardest part was not the AI itself, but making the system reliable under latency, cost, and ambiguity while shipping something real users could actually use.
 
 ## Why Inksesh?
 
-Tattoo studios have real operational complexity and underpowered tools. Inksesh feels like a chance to build the core operating system for modern studios, and this project is exactly the kind of execution-heavy work I enjoy.
+I want to join InkSesh because it is an early-stage product solving a real, non-trivial problem with clear long-term impact. From a career perspective, it offers the chance to work end-to-end on meaningful systems, media pipelines, discovery, and trust, while learning directly from real user behavior. It is the kind of environment where strong engineering judgment, ownership, and growth actually matter.
 
 ## What I'd Improve With 2 More Weeks
 
-- Add async background jobs for video processing.
-- Role-based access for multiple admins.
-- Multi-studio support and stricter data boundaries.
-- Richer artist portfolio tagging and search.
-- Media moderation and batch upload UX improvements.
-- Server-side auth and session handling.
+- Add background processing and progress tracking for large uploads.
+- Improve asset versioning and metadata (tags, usage context, artist association).
+- Add more aggressive video optimization and adaptive formats.
+- Harden error handling, retries, and observability for the asset pipeline.
+- Polish the UI around asset previews and filtering based on real usage patterns.
+- Make the asset system feel production-ready under real studio workloads.
 
 ## Demo Video Guidance
 
